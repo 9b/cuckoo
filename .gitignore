@@ -1,2 +1,2 @@
-cuckoo.conf
+conf/cuckoo.conf
 analysis/*
