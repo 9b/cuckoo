@@ -1,0 +1,28 @@
+[2011-11-30 09:44:30,138] [Core.Init] INFO: Started.
+[2011-11-30 09:44:30,302] [VirtualMachine.Check] INFO: Your VirtualBox version is: "4.1.6", good!
+[2011-11-30 09:44:30,303] [Core.Init] INFO: Populating virtual machines pool...
+[2011-11-30 09:44:30,306] [VirtualMachine] ERROR: [31m[31mVirtual machine "Sandbox" not found: 0x80bb0001 (Could not find a registered machine named 'Sandbox')[0m[0m
+[2011-11-30 09:44:30,306] [VirtualMachine.Infos] ERROR: [31m[31mNo virtual machine handle.[0m[0m
+[2011-11-30 09:44:30,306] [Core.Init] CRITICAL: [1m[31m[1m[31mNone of the virtual machines are available. Please review the errors.[0m[0m[0m[0m
+[2011-11-30 09:45:36,678] [Core.Init] INFO: Started.
+[2011-11-30 09:45:36,703] [VirtualMachine.Check] INFO: Your VirtualBox version is: "4.1.6", good!
+[2011-11-30 09:45:36,704] [Core.Init] INFO: Populating virtual machines pool...
+[2011-11-30 09:45:36,710] [VirtualMachine.Infos] INFO: Virtual machine "Sandbox" informations:
+[2011-11-30 09:45:36,710] [VirtualMachine.Infos] INFO: 	\_| Name: Sandbox
+[2011-11-30 09:45:36,711] [VirtualMachine.Infos] INFO: 	  | ID: d2e132fb-2364-4660-88d6-2a34a64ca408
+[2011-11-30 09:45:36,711] [VirtualMachine.Infos] INFO: 	  | CPU Count: 1 Core/s
+[2011-11-30 09:45:36,711] [VirtualMachine.Infos] INFO: 	  | Memory Size: 2048 MB
+[2011-11-30 09:45:36,712] [VirtualMachine.Infos] INFO: 	  | VRAM Size: 16 MB
+[2011-11-30 09:45:36,712] [VirtualMachine.Infos] INFO: 	  | State: Saved
+[2011-11-30 09:45:36,712] [VirtualMachine.Infos] INFO: 	  | Current Snapshot: "Configured"
+[2011-11-30 09:45:36,712] [VirtualMachine.Infos] INFO: 	  | MAC Address: 08:00:27:A4:59:06
+[2011-11-30 09:45:36,713] [Core.Init] INFO: 1 virtual machine/s added to pool.
+[2011-11-30 09:45:36,723] [Database.Init] INFO: Generated database "db/cuckoo.db" which didn't exist before.
+[2011-11-30 09:46:48,019] [Core.Init] CRITICAL: [1m[31m[1m[31mKeyboard interrupt catched! Forcing shutdown and restore of all virtual machines before exiting...[0m[0m[0m[0m
+[2011-11-30 09:46:48,206] [VirtualMachine.Restore] INFO: Virtual machine "Sandbox" successfully restored to current snapshot.
+[2011-11-30 09:47:23,135] [Core.Init] INFO: Started.
+[2011-11-30 09:47:23,297] [VirtualMachine.Check] INFO: Your VirtualBox version is: "4.1.6", good!
+[2011-11-30 09:47:23,297] [Core.Init] INFO: Populating virtual machines pool...
+[2011-11-30 09:47:23,301] [VirtualMachine] ERROR: [31m[31mVirtual machine "Sandbox" not found: 0x80bb0001 (Could not find a registered machine named 'Sandbox')[0m[0m
+[2011-11-30 09:47:23,301] [VirtualMachine.Infos] ERROR: [31m[31mNo virtual machine handle.[0m[0m
+[2011-11-30 09:47:23,301] [Core.Init] CRITICAL: [1m[31m[1m[31mNone of the virtual machines are available. Please review the errors.[0m[0m[0m[0m
